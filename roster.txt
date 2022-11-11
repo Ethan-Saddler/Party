@@ -1,0 +1,6 @@
+Class: Mage, Name: Wizard, Health: 100, Base Attack: 2, Spell Attack: 3, Spell Slots: 4
+Class: Mage, Name: MagicMan, Health: 100, Base Attack: 2, Spell Attack: 3, Spell Slots: 4
+Class: Mage, Name: MagicWoman, Health: 100, Base Attack: 2, Spell Attack: 3, Spell Slots: 2
+Class: Warrior, Name: Barb, Health: 100, Base Attack: 1, Weapon: Sword, Armor Class: 2
+Class: Warrior, Name: Knight, Health: 100, Base Attack: 4, Weapon: Knife, Armor Class: 1
+Class: Warrior, Name: Hulk, Health: 100, Base Attack: 5, Weapon: Fist, Armor Class: 3
